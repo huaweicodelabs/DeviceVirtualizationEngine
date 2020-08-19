@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">测试apk</string>
+    <string name="action_settings">Settings</string>
+    <string name="initinstance">启动投屏</string>
+    <string name="releaseinstance">停止投屏</string>
+    <string name="all_trust_devices">所有可信设备</string>
+    <string name="back">返回</string>
+    <string name="delete">删除</string>
+</resources>
